@@ -3,24 +3,23 @@
 # Change "moonrise" to your repository name
 url: "https://brass.bxteam.gq"
 baseurl: ""
-siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteIcon: /media/favicon.ico
+siteYear: 2022
 siteFooterlink: /about
+downloadLink: "https://github.com/NONPLAYT/Brass-Client/releases"
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
 
-# Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
-useBedrockForOnlineStatus: false
+# Set basic info
+serverName: Brass Client
+serverDescription: A Minecraft Fabric Utility Mod for anarchy servers.
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/p7cxhw7E2M
+discordServerID: 931595732752953375
+discordChannelID: 931595733507899503
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
